@@ -1,0 +1,42 @@
+.box1{
+    background-color: yellow;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em;
+}
+
+.box2{
+    background-color: orangered;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em;
+}
+
+.box3{
+    background-color: lightgreen;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em;
+}
+
+.box4{
+    background-color: aqua;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 300px;
+    margin: 1em;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
